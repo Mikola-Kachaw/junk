@@ -72,7 +72,7 @@ ___
   </p>
 
 <p align="center" width="100%">
-  <img src="https://psv4.userapi.com/c909628/u307080556/docs/d14/fec61b8310cb/2.gif?extra=0yvKv3bz-UmmPatOHypDJbJiHuLJNwyTloa5as1fxr6PK7qz5mtD7zh7Zt6MQ4R8LpcGI3uMY6UCBhCu3YeXz_-yWaMnMDM0cs92dUQ78DtIuX7OB0irP4u7-jlZSygSBZcCWnXlC1wnnNsQIyuA5AjUgg"/>
+  <img src="https://psv4.userapi.com/c909628/u307080556/docs/d14/fec61b8310cb/2.gif?extra=0yvKv3bz-UmmPatOHypDJbJiHuLJNwyTloa5as1fxr6PK7qz5mtD7zh7Zt6MQ4R8LpcGI3uMY6UCBhCu3YeXz_-yWaMnMDM0cs92dUQ78DtIuX7OB0irP4u7-jtfSygSBZcCWnXlC1hwztwdd3jT5AiEjA"/>
 </p>
 
 ___
