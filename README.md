@@ -1,3 +1,5 @@
+
+
 <h1><img src="FRONTEND/media/android-chrome-512x512.png" height="40"/> DrishSportPit</h1>
 
 Наша команда рапределила роли таким образом:
@@ -375,7 +377,7 @@ ___
 
 <br>
 <p align="center" width="100%">
-  <img src="https://psv4.userapi.com/c909328/u307080556/docs/d27/82ac7bad60e7/211.gif?extra=f_51eFkBeWpNkUkWSibHEQqvxI97D4HrsiN6ABrpKwHbMDm2rxtoZY4B1TMZCW7y67v1tsiYUGrO7VpxQXE6NKShgacRQavbqq97Bme0_-yos8RHxwMvgtQPJ-nmv3uChuMA7PUrtsYpcKnMFqqGdjOSSg"/>
+  <img src="https://psv4.userapi.com/c909328/u307080556/docs/d10/1f99077988d9/211.gif?extra=ibVQZ2PonDKp7s7BcUrjZjB1OshDjEisW9vBBQfYOFHjG-D2-6PMJYe1rWY-iIcDRPZEtAdxwSh7kSgGlHNCPwk6Zo6zV8KoJ6RXrSU-ssReeANqrc3Pe7lyLlBj4_sKC8PRFqbcKm5TDTL6xQJuGPysdQ"/>
 </p>
 
 ___
