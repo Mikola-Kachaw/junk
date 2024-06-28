@@ -1,3 +1,5 @@
+
+
 <h1><img src="FRONTEND/media/android-chrome-512x512.png" height="40"/> DrishSportPit</h1>
 
 Наша команда рапределила роли таким образом:
@@ -45,7 +47,7 @@ ___
   - Корзина, пустая и наполненная товарами
   - Личный кабинет пользователя
   - Страница с ошибкой
-<p>Чтобы посмотреть на итоговый результат можете перейти на проект <a href ="https://www.figma.com/design/ZumUZ8boM4ANNOZOvuoQKp/DESIGN?t=3wjoTr2HRGATSLLU-1"><img src="https://image.winudf.com/v2/image1/Y29tLmZpZ21hLm1pcnJvcl9pY29uXzE2Mzg4MzY4MjBfMDQ0/icon.png?w=&fakeurl=1" height=15px>Figma.</a></p>
+<p>Чтобы посмотреть на итоговый результат можете перейти на проект <a href ="https://www.figma.com/design/ZumUZ8boM4ANNOZOvuoQKp/DESIGN?t=3wjoTr2HRGATSLLU-1" style="text-decoration: none;"><img src="https://image.winudf.com/v2/image1/Y29tLmZpZ21hLm1pcnJvcl9pY29uXzE2Mzg4MzY4MjBfMDQ0/icon.png?w=&fakeurl=1" height=15px>Figma.</a></p>
 
 
 <h2>Frontend-разработка :computer:</h2>
